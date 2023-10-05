@@ -11,8 +11,9 @@
     text-decoration: none;
 }
 
-.elements {
+.elements1, .elements2, .elements3 {
     border: 1px solid black;
     border-radius: 5px;
     padding: 5px;
+    margin: 5px;
 }
