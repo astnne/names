@@ -47,7 +47,7 @@ body {
 @media screen and (min-width: 699px) {
     body {
         font-family: 'Open Sans', sans-serif;
-        font-size: 11px;
+        font-size: 19px;
         background-color: white;
         padding: 45px;
     }
