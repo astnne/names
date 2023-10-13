@@ -1,8 +1,8 @@
 body {
     font-family: 'Open Sans', sans-serif;
-    font-size: 11px;
+    font-size: 10px;
     background-color: white;
-    padding: 45px;
+    padding: 10px;
 }
 
 .namesFont {
@@ -38,13 +38,20 @@ body {
 .elements1, .elements2, .elements3 {
     border: 1px solid lightgray;
     border-radius: 5px;
-    padding: 6px 8px;
+    padding: 7px 10px;
     margin: 3px 8px;
 }
 /* MOBILE CODE UP THERE */
 
 /* DESKTOP CODE DOWN HERE */
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 699px) {
+    body {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 11px;
+        background-color: white;
+        padding: 45px;
+    }
+
     .namesFont {
         display: flex;
         justify-content: center;
