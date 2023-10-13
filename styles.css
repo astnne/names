@@ -1,6 +1,30 @@
-* {
-    font-family: 'Lato', sans-serif;
-    background-color: lightyellow;
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    background-color: white;
+    padding: 45px;
+}
+
+.namesFont {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} button {
+    border: none;
+    background-color: rgba(233, 233, 233, 0.556);
+    border-radius: 100px;
+    padding: 15px 20px;
+    margin: 5px;
+    font-size: larger;
+} button:hover {
+    cursor: pointer;
+    border: black;
 }
 
 .refresh:default {
@@ -12,8 +36,8 @@
 }
 
 .elements1, .elements2, .elements3 {
-    border: 1px solid black;
+    border: 1px solid lightgray;
     border-radius: 5px;
-    padding: 5px;
-    margin: 5px;
+    padding: 15px 20px;
+    margin: 5px 12px;
 }
