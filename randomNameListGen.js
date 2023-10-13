@@ -38,8 +38,8 @@ body {
 .elements1, .elements2, .elements3 {
     border: 1px solid lightgray;
     border-radius: 5px;
-    padding: 3px 4px;
-    margin: 5px 12px;
+    padding: 6px 8px;
+    margin: 3px 8px;
 }
 /* MOBILE CODE UP THERE */
 
