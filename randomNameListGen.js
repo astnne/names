@@ -10,6 +10,8 @@ let names = ['Alexis', 'Anderson', 'Austin', 'Carleigh', 'Darko', 'Eden', 'Edwar
 function doThis() {
     shuffleArray(names);
 
+    console.log(names)
+
     let randomNames1 = ""
     let randomNames2 = ""
     let randomNames3 = ""
