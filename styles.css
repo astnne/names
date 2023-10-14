@@ -1,5 +1,5 @@
 body {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 10px;
     background-color: white;
     padding: 10px;
@@ -52,7 +52,6 @@ body {
 /* DESKTOP CODE DOWN HERE */
 @media screen and (min-width: 699px) {
     body {
-        font-family: 'Open Sans', sans-serif;
         font-size: 19px;
         background-color: white;
         padding: 45px;
