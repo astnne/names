@@ -22,7 +22,7 @@ function doThis() {
     randomNames2 = randomNames2 + (`<span class="elements2">4. ${names[9]} ${names[10]} ${names[11]}\n </span>`);
     randomNames2 = randomNames2 + (`<span class="elements2">5. ${names[12]} ${names[13]} ${names[14]}\n </span>`);
     randomNames2 = randomNames2 + (`<span class="elements2">6. ${names[15]} ${names[16]} ${names[17]}\n </span>`);
-    randomNames2 = randomNames2 + (`<span class="elements3">7. ${names[18]} ${names[19]} ${names[20]}\n </span>`);
+    randomNames2 = randomNames2 + (`<span class="elements2">7. ${names[18]} ${names[19]} ${names[20]}\n </span>`);
     randomNames3 = randomNames3 + (`<span class="elements3">8. ${names[21]} ${names[22]} ${names[23]}\n </span>`);
     randomNames3 = randomNames3 + (`<span class="elements3">9. ${names[24]} ${names[25]}\n  </span>`);
     randomNames3 = randomNames3 + (`<span class="elements3">10. ${names[26]} ${names[27]}\n </span>`);
